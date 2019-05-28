@@ -1,0 +1,140 @@
+2019-05-22 00:34:16,016 INFO  [Log] ---------------------------------- 
+2019-05-22 00:34:16,016 INFO  [Log] TC001 
+2019-05-22 00:34:16,016 INFO  [Log] ----------------------------------------- 
+2019-05-22 00:34:19,214 INFO  [Log] The Browser which got reopened is :Chrome 
+2019-05-22 00:34:19,214 INFO  [Log] message testing... 
+2019-05-22 00:34:25,994 INFO  [Log] The url got opened is : https://www.goindigo.in/?linkNav=home_header 
+2019-05-22 00:34:26,282 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:26,350 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:26,434 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:26,484 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:26,548 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:26,645 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:26,731 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:26,818 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:26,906 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:27,003 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:27,114 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:27,194 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:27,280 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:27,351 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:27,466 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:27,639 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:27,781 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:27,864 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:27,945 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,048 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,115 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,218 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,300 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,385 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,476 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,549 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,623 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,706 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,799 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:28,892 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:29,227 INFO  [Log] Sucessfully entered text is : name:or-src And the value is :Chennai (MAA) 
+2019-05-22 00:34:29,429 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-22 00:34:30,867 INFO  [Log] Sucessfully entered text is : name:or-dest And the value is :Ahmedabad (AMD) 
+2019-05-22 00:34:30,947 INFO  [Log] Succesfully entered key in :name:or-dest 
+2019-05-22 00:34:32,099 INFO  [Log] Succesfully clicked webelement is  :xpath://*[starts-with(@id,'dp15')]/div/div[2]/table/tbody/tr 
+2019-05-22 00:34:32,804 INFO  [Log] Sucessfully fetch the date from calander :14 
+2019-05-22 00:34:33,976 INFO  [Log] Succesfully clicked webelement is  :name:passenger 
+2019-05-22 00:34:34,177 INFO  [Log] Succesfully clicked webelement is  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/ul/li[1]/div/button[2]/span 
+2019-05-22 00:34:34,326 INFO  [Log] Succesfully clicked webelement is  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/ul/li[1]/div/button[2]/span 
+2019-05-22 00:34:34,481 INFO  [Log] Succesfully clicked webelement is  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/ul/li[1]/div/button[2]/span 
+2019-05-22 00:34:35,700 INFO  [Log] Succesfully clicked webelement is  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/div/button 
+2019-05-22 00:34:35,963 INFO  [Log] Succesfully clicked webelement is  :xpath://*[@id= 'bookFlightTab']/form/div[7]/div[6]/button/span[1] 
+2019-05-22 00:34:49,022 INFO  [Log] Succesfully fetched  value from webelement is   :xpath://*[@id= 'bookingWidgetContainer']/div/div/div/div[2]/div[3]/div/div[1]/spanAnd the value is :? 3,543 
+2019-05-22 00:34:49,023 INFO  [Log] -------------------------------- 
+2019-05-22 00:34:49,023 INFO  [Log] ------------END----------------- 
+2019-05-22 00:34:49,023 INFO  [Log] ---------------------------------- 
+2019-05-22 00:34:49,399 INFO  [Log] ---------------------------------- 
+2019-05-22 00:34:49,399 INFO  [Log] TC003 
+2019-05-22 00:34:49,399 INFO  [Log] ----------------------------------------- 
+2019-05-22 00:34:54,616 INFO  [Log] Succesfully clicked webelement is  :linkText:Contact us 
+2019-05-22 00:34:56,650 INFO  [Log] Succesfully worked to a new window 
+2019-05-22 00:35:02,722 INFO  [Log] Succesfully fetched  value from webelement is   :xpath:/html/body/div[6]/div[1]/div[1]/div/div[2]/div/div[1]/p[1]And the value is :Level 1, Tower C, Global Business Park, Mehrauli-Gurgaon Road, Gurgaon – 122 002, Haryana, India. 
+2019-05-22 00:35:02,722 INFO  [Log] -------------------------------- 
+2019-05-22 00:35:02,723 INFO  [Log] ------------END----------------- 
+2019-05-22 00:35:02,723 INFO  [Log] ---------------------------------- 
+2019-05-22 00:35:02,808 INFO  [Log] ---------------------------------- 
+2019-05-22 00:35:02,808 INFO  [Log] TC004 
+2019-05-22 00:35:02,808 INFO  [Log] ----------------------------------------- 
+2019-05-22 00:35:02,887 INFO  [Log] Succesfully worked mousehovering is  :linkText:Manage 
+2019-05-22 00:35:07,350 INFO  [Log] Succesfully performed and clicked  mousehovering is  :linkText:Lounge Services 
+2019-05-22 00:35:10,648 INFO  [Log] Succesfully closed the browser 
+2019-05-22 00:35:10,648 INFO  [Log] -------------------------------- 
+2019-05-22 00:35:10,648 INFO  [Log] ------------END----------------- 
+2019-05-22 00:35:10,648 INFO  [Log] ---------------------------------- 
+2019-05-25 15:13:36,284 INFO  [Log] ---------------------------------- 
+2019-05-25 15:13:36,284 INFO  [Log] TC001 
+2019-05-25 15:13:36,284 INFO  [Log] ----------------------------------------- 
+2019-05-25 15:13:48,297 INFO  [Log] The Browser which got reopened is :Chrome 
+2019-05-25 15:13:48,299 INFO  [Log] message testing... 
+2019-05-25 15:14:00,131 INFO  [Log] The url got opened is : https://www.goindigo.in/?linkNav=home_header 
+2019-05-25 15:14:00,691 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:00,770 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:00,880 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:00,974 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:01,054 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:01,142 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:01,229 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:01,355 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:01,461 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:01,569 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:01,665 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:01,739 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:01,870 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:02,016 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:02,260 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:02,553 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:02,794 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:03,011 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:03,226 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:03,414 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:03,573 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:03,746 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:03,891 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:04,042 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:04,255 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:04,436 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:04,577 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:04,733 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:04,867 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:05,014 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:05,697 INFO  [Log] Sucessfully entered text is : name:or-src And the value is :Chennai (MAA) 
+2019-05-25 15:14:06,033 INFO  [Log] Succesfully entered key in :name:or-src 
+2019-05-25 15:14:07,902 INFO  [Log] Sucessfully entered text is : name:or-dest And the value is :Ahmedabad (AMD) 
+2019-05-25 15:14:08,019 INFO  [Log] Succesfully entered key in :name:or-dest 
+2019-05-25 15:14:09,205 INFO  [Log] Succesfully clicked webelement is  :xpath://*[starts-with(@id,'dp15')]/div/div[2]/table/tbody/tr 
+2019-05-25 15:14:10,241 INFO  [Log] Sucessfully fetch the date from calander :14 
+2019-05-25 15:14:11,469 INFO  [Log] Succesfully clicked webelement is  :name:passenger 
+2019-05-25 15:14:12,004 INFO  [Log] Succesfully clicked webelement is  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/ul/li[1]/div/button[2]/span 
+2019-05-25 15:14:12,300 INFO  [Log] Succesfully clicked webelement is  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/ul/li[1]/div/button[2]/span 
+2019-05-25 15:14:12,646 INFO  [Log] Succesfully clicked webelement is  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/ul/li[1]/div/button[2]/span 
+2019-05-25 15:14:13,967 INFO  [Log] Succesfully clicked webelement is  :xpath://*[@id='bookFlightTab']/form/div[5]/div[1]/div[2]/div/button 
+2019-05-25 15:14:14,417 INFO  [Log] Succesfully clicked webelement is  :xpath://*[@id= 'bookFlightTab']/form/div[7]/div[6]/button/span[1] 
+2019-05-25 15:14:27,516 INFO  [Log] Succesfully fetched  value from webelement is   :xpath://*[@id= 'bookingWidgetContainer']/div/div/div/div[2]/div[3]/div/div[1]/spanAnd the value is :? 4,382 
+2019-05-25 15:14:27,516 INFO  [Log] -------------------------------- 
+2019-05-25 15:14:27,516 INFO  [Log] ------------END----------------- 
+2019-05-25 15:14:27,516 INFO  [Log] ---------------------------------- 
+2019-05-25 15:14:29,432 INFO  [Log] ---------------------------------- 
+2019-05-25 15:14:29,432 INFO  [Log] TC003 
+2019-05-25 15:14:29,436 INFO  [Log] ----------------------------------------- 
+2019-05-25 15:14:34,772 INFO  [Log] Succesfully clicked webelement is  :linkText:Contact us 
+2019-05-25 15:14:36,803 INFO  [Log] Succesfully worked to a new window 
+2019-05-25 15:14:42,955 INFO  [Log] Succesfully fetched  value from webelement is   :xpath:/html/body/div[6]/div[1]/div[1]/div/div[2]/div/div[1]/p[1]And the value is :Level 1, Tower C, Global Business Park, Mehrauli-Gurgaon Road, Gurgaon – 122 002, Haryana, India. 
+2019-05-25 15:14:42,955 INFO  [Log] -------------------------------- 
+2019-05-25 15:14:42,955 INFO  [Log] ------------END----------------- 
+2019-05-25 15:14:42,955 INFO  [Log] ---------------------------------- 
+2019-05-25 15:14:43,084 INFO  [Log] ---------------------------------- 
+2019-05-25 15:14:43,084 INFO  [Log] TC004 
+2019-05-25 15:14:43,084 INFO  [Log] ----------------------------------------- 
+2019-05-25 15:14:43,362 INFO  [Log] Succesfully worked mousehovering is  :linkText:Manage 
+2019-05-25 15:14:49,411 INFO  [Log] Succesfully performed and clicked  mousehovering is  :linkText:Lounge Services 
+2019-05-25 15:14:53,028 INFO  [Log] Succesfully closed the browser 
+2019-05-25 15:14:53,028 INFO  [Log] -------------------------------- 
+2019-05-25 15:14:53,028 INFO  [Log] ------------END----------------- 
+2019-05-25 15:14:53,028 INFO  [Log] ---------------------------------- 
