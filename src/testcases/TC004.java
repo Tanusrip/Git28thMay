@@ -13,6 +13,7 @@ public class TC004 {
 		LH.listservices();
 		
 		CommonMethods.closeBrowser();
+		//....... This is tested
 	}
 
 }
