@@ -10,7 +10,7 @@ public class TC002 {
 		
 		Thread.sleep(3000);
 		FS.flightTime();
-		Thread.sleep(2000);
+		Thread.sleep(3000);
 		FS.NoofFlights();
 		
 	}
